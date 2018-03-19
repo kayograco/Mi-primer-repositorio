@@ -1,5 +1,6 @@
 # Mi-primer-repositorio
 
-**DEV** https://domain
+**DEV** https://domain.com
 
-**UAT** https://domain
+**UAT** https://domain.com
+
