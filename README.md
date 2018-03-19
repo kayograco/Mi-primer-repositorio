@@ -3,10 +3,3 @@
 **DEV** https://domain.com
 
 **UAT** https://domain.com
-
-
-asdf
-
-asdf
-
-asdf
